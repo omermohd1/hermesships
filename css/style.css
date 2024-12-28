@@ -782,7 +782,7 @@
   
   @media (max-width: 768px) {
     #about {
-      margin: -60px;
+      /* margin: -60px; */
       padding: 50px 0;
     }
   
@@ -793,7 +793,7 @@
     }
   
     #about .about-content {
-      margin: 15px;
+      /* margin: 15px; */
       padding: 20px;
       background: rgba(255, 255, 255, 0.3);
     }
