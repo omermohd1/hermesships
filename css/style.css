@@ -1342,6 +1342,10 @@
     filter: blur(1.5px);
     -webkit-filter: blur(1.5px);
   }
+
+  .flag {
+      padding:-10px;
+  }
   
   .tint {
     position: absolute;
