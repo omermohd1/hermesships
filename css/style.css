@@ -753,6 +753,7 @@
   #about {
     /* background: #abaaaa; */
     padding: 20px 0;
+      height:100%;
   }
   
   #about .about-container {
