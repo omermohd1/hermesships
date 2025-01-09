@@ -753,7 +753,6 @@
   #about {
     /* background: #abaaaa; */
     padding: 20px 0;
-      height:100%;
   }
   
   #about .about-container {
@@ -785,6 +784,7 @@
     #about {
       /* margin: -60px; */
       padding: 50px 0;
+        height:100%;
     }
   
     #about .about-container {
